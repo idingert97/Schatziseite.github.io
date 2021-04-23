@@ -1,7 +1,15 @@
+body{
+    text-align: center;
+  background: linear-gradient(45deg, deeppink,salmon,lavender);  
+}
+
 img {
+margin: 10px;
+padding: 20px;
+background: linear-gradient(beige,teal);
 border-radius: 50px 20px 0 50px;
 }
 p {
-    color: darkred;
-    background-color: rgb(199, 184, 50);
+font-size: large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
